@@ -6,7 +6,7 @@ This project is a chunk of a private project published to help understand the re
 http://youtrack.jetbrains.com/issue/SCL-7472
 
 ###Issue
-The issue appends when you open this project in IntelliJ Idea (13.1.4 for example) and open in the scala file AmpGroupBridger, Idea becomes unusable when you work in the big for yield.
+The issue appends when you open this project in IntelliJ Idea (13.1.4 for example) and open the scala file [AmpGroupsBridger](/src/main/scala/com/pharmpress/bnfbridge/control/ampgroups/AmpGroupsBridger.scala), Idea becomes unusable when you work in the big for yield.
 
 Usage
 -----
